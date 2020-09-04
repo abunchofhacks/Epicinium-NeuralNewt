@@ -59,7 +59,7 @@ The rest of Epicinium will be open-sourced in the near future.
 It will also be coming soon to [Steam](https://epicinium.nl/steam).
 
 Parts of the code are inspired by
-Surag Nair's helpful [PyTorch implementation](https://github.com/suragnair/alpha-zero-general) based on AlphaZero,
+Surag Nair's helpful [implementation based on AlphaZero](https://github.com/suragnair/alpha-zero-general) in PyTorch,
 distributed under the MIT License.
 
 Epicinium is being developed by [A Bunch of Hacks](https://abunchofhacks.coop),
@@ -80,7 +80,7 @@ Contact us at [info@epicinium.nl](mailto:info@epicinium.nl).
 * [*Epicinium NeuralNewt automaton library*](https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib) (fetch with `git submodule update --init --recursive`)
 * [*CMake*](https://cmake.org/download/), at least 3.7
 
-## Compilation
+## Getting started
 
 ### Linux
 
@@ -101,7 +101,7 @@ Contact us at [info@epicinium.nl](mailto:info@epicinium.nl).
 `CMakeLists.txt` also defines a build target `neuralnewt` that compiles *libneuralnewt*, which is used in Epicinium to run NeuralNewt brains.
 
 ### Windows
-Similar to above, but for step 5, we used CMake to produce a Visual Studio 14 project file: `cmake -G "Visual Studio 14 2015 Win64" ..`.
+Similar to above, but for step 4 and 5, we used CMake to produce a Visual Studio 14 project file: `cmake -G "Visual Studio 14 2015 Win64" ..`.
 
 ## License
 
