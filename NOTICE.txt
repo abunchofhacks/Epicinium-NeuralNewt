@@ -1,0 +1,2 @@
+Epicinium NeuralNewt
+Copyright (c) 2020 A Bunch of Hacks

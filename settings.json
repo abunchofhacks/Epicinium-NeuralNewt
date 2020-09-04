@@ -1,0 +1,27 @@
+{
+	"num_rounds": 100,
+	"num_pools": 2,
+	"brains_per_pool": 50,
+	"num_AI_games": 30,
+
+	"save_brains": true,
+	"timing": false,
+	"verbose": true,
+
+	"aftermath_loglevel": "debug",
+	"recording_chance": 0.002,
+	"map_names": [
+		"toad1v1",
+		"spruce1v1",
+		"small1v1",
+		"oceanside1v1",
+		"oasis1v1"
+	],
+
+	"cuda": true,
+	"num_channels": 32,
+	"torch_threads": 4,
+
+	"mutation_deviation_factor": 0.5,
+	"mutation_selection_chance": 0.5
+}

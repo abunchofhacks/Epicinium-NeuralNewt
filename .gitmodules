@@ -1,0 +1,3 @@
+[submodule "libs/epicinium-automatonlib"]
+	path = libs/epicinium-automatonlib
+	url = https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib.git

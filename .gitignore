@@ -1,0 +1,13 @@
+# build output
+/cmake
+/build
+
+# logs
+*.log
+
+# recordings
+*.rec
+/recordings/history.list
+/*.dll
+
+/brains
