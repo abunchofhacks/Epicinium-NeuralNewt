@@ -59,7 +59,7 @@ The rest of Epicinium will be open-sourced in the near future.
 It will also be coming soon to [Steam](https://epicinium.nl/steam).
 
 Parts of the code are inspired by
-[Surag Nair's helpful PyTorch implementation based on AlphaZero](https://github.com/suragnair/alpha-zero-general),
+Surag Nair's helpful [PyTorch implementation](https://github.com/suragnair/alpha-zero-general) based on AlphaZero,
 distributed under the MIT License.
 
 Epicinium is being developed by [A Bunch of Hacks](https://abunchofhacks.coop),
