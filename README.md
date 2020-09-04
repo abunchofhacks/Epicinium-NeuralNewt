@@ -49,8 +49,10 @@ four convolutional layers followed by two fully connected layers.
 We have no reason to believe this is optimal,
 more experiments are needed!
 
-[AINeuralNewt's source](https://github.com/abunchofhacks/Epicinium-lib-rs/blob/master/epicinium/src/ai/aineuralnewt.cpp) can be found in the *Epicinium-lib-rs* repository,
-and is implemented in the Epicinium-NeuralNewt-automatonlib dependency,
+AINeuralNewt's source can be found in the
+[*Epicinium-lib-rs* repository](https://github.com/abunchofhacks/Epicinium-lib-rs),
+and is implemented in the
+[*Epicinium-NeuralNewt-automatonlib*](https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib) dependency,
 both available under the AGPL-3.0 license.
 
 The rest of Epicinium will be open-sourced in the near future.
