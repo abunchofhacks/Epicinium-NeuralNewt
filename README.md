@@ -120,6 +120,7 @@ as specified in `libs/openssl/LICENSE`.
 
 ## Related repositories
 
+*  [Epicinium](https://github.com/abunchofhacks/Epicinium), the full source code for Epicinium
 *  [Epicinium documentation](https://github.com/abunchofhacks/epicinium-documentation), which includes a wiki and a tutorial for Epicinium
 *  [Epicinium-NeuralNewt-automatonlib](https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib), a precompiled C++ library with Epicinium logic for Epicinium-NeuralNewt
 *  [Epicinium-lib-rs](https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib), Rust bindings for libepicinium, the game logic library of Epicinium
